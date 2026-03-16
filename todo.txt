@@ -1,0 +1,2 @@
+trocar o path dos volumes para "/home/bkwamme/data"
+trocar a porta do mysql para 3306
